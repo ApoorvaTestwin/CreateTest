@@ -1,0 +1,49 @@
+
+
+.One__One:hover{
+    background: #29CC39;
+    border-radius: 2 px;
+    color:white;
+    
+} 
+ .One__One:active{
+    background: #29CC39;
+    border-radius: 2px;
+    color:white;
+}
+
+.form-check{
+    font-size:18px;
+}
+
+.target{
+    font-weight:500;
+    font-size: 25px;
+}
+p{
+    font-weight:400;
+}
+.form-check-input{
+    border: 2px solid #808080;
+}
+
+.btn{
+    background: #EFF0F7;
+border-radius: 5px;
+}
+
+.course{
+    /* background:; */
+border: 1px solid #DDE2E8;
+border-radius: 8px;
+}
+
+
+/* .container{
+    background-color: #FFFFFF;
+} */
+body{
+    
+        background-color: #E6E6E6;
+    
+}

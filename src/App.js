@@ -2,7 +2,7 @@ import Home from './pages/Home';
 import './App.css';
 import Sidebar from './components/Sidebar';
 import CreateTest from './pages/createtest/CreateTest';
-import CreateFree from './pages/createtest/CreateFree';
+import CreateFree from './pages/createfree/CreateFree';
 // import 'bootsrap/dist/css/bootsrtap.min.css';
 // import 'bootstrap-icons/font/bootstrap-icons.css';
 
