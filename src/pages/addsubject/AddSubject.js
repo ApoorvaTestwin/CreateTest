@@ -2,6 +2,7 @@ import React from "react";
 import "./addSubject.css";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome"
 import { faUpload} from "@fortawesome/free-solid-svg-icons"
+import MyDropzone from "./MyDropzone";
 
 
 const AddSubject = () => {
@@ -37,7 +38,7 @@ const AddSubject = () => {
   </label>
 </div></div>
 <div className="mt-4" style={{ fontSize: "20px", fontWeight: "500" }}><FontAwesomeIcon icon={faUpload} /> Upload CSV</div>
-<My
+<MyDropzone/>
            </div>
         </div>
       </div>
